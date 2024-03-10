@@ -131,4 +131,4 @@ Beyond this, you can read the `README.md` files, send us patches, ask
 on the mailing list libreoffice@lists.freedesktop.org (no subscription
 required) or poke people on IRC `#libreoffice-dev` on irc.libera.chat -
 we're a friendly and generally helpful mob. We know the code can be
-hard to get into at first, and so there are no silly questions.
+hard to get into at first, and so there are no silly questions. 
